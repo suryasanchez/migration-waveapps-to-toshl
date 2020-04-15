@@ -1,0 +1,7 @@
+{
+  "CONFIG": {
+    "WAVEAPP_TOKEN": "...",
+    "WAVEAPP_WEB_ACCOUNT_ID": "...",
+    "TOSHL_TOKEN": "..."
+  }
+}
